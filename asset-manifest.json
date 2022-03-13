@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/react-deploy/static/css/main.56e6221f.css",
-    "main.js": "/react-deploy/static/js/main.ebf4a35f.js",
-    "static/js/787.28cb0dcd.chunk.js": "/react-deploy/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/react-deploy/index.html",
-    "main.56e6221f.css.map": "/react-deploy/static/css/main.56e6221f.css.map",
-    "main.ebf4a35f.js.map": "/react-deploy/static/js/main.ebf4a35f.js.map",
-    "787.28cb0dcd.chunk.js.map": "/react-deploy/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/deploy-react/static/css/main.56e6221f.css",
+    "main.js": "/deploy-react/static/js/main.ebf4a35f.js",
+    "static/js/787.28cb0dcd.chunk.js": "/deploy-react/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/deploy-react/index.html",
+    "main.56e6221f.css.map": "/deploy-react/static/css/main.56e6221f.css.map",
+    "main.ebf4a35f.js.map": "/deploy-react/static/js/main.ebf4a35f.js.map",
+    "787.28cb0dcd.chunk.js.map": "/deploy-react/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.56e6221f.css",
